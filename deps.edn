@@ -1,0 +1,3 @@
+{:deps {org.babashka/sci {:mvn/version "0.8.41"}
+        thheller/shadow-cljs {:mvn/version "2.26.2"}}
+ :aliases {}}
