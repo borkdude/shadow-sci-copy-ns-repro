@@ -10,4 +10,4 @@
 
 (defn quux [] 4)
 
-(defn dude [] 5)
+(defn dude [] 6)
