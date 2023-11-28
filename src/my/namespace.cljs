@@ -9,3 +9,5 @@
 (defn baz [] 3)
 
 (defn quux [] 4)
+
+(defn dude [] 5)
